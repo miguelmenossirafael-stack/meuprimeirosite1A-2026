@@ -4,4 +4,15 @@ color: azure;
 text-align: center;
 max-width: 800px;
 margin: 0 auto;
+padding:16px;
+border: 5px solid blueviolet;
+}
+
+main {
+    background-color: darkturquoise;
+    color: aliceblue;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+    display: flex;
 }
